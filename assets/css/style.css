@@ -7,11 +7,6 @@ a {
     font-family: 'Open Sans', sans-serif;
 }
 
-#navName {
-    font-family: 'Prosto One', cursive;
-
-}
-
 a:hover {
     color: rgb(255, 222, 38);
 }
@@ -50,4 +45,8 @@ a.effect-shine:hover {
     to {
         -webkit-mask-position: -50%;
     }
+}
+
+p {
+    font-size: 1.00em;
 }
